@@ -9,3 +9,4 @@ ${BROWSER}    ff
 Open main page
     Open browser    http://www.ruokakori.net/    browser=${BROWSER}
     Title should be    Ruokakori.net: Löydä alueesi halvin ruokakori - Pääsivu
+
